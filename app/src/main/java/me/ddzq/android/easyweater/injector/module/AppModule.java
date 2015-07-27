@@ -23,5 +23,4 @@ public class AppModule {
     WeatherApplication provideWeatherApplicationContext() {
         return weatherApplication;
     }
-
 }

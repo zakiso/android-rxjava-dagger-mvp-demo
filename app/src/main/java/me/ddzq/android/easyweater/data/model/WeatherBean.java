@@ -6,6 +6,7 @@ package me.ddzq.android.easyweater.data.model;
 public class WeatherBean {
 
     /**
+     * 天气的数据模型
      * errNum : 0
      * errMsg : success
      * retData : {"date":"15-07-25","altitude":"33","temp":"33","sunrise":"05:06","city":"北京","h_tmp":"33","latitude":39.904,"WD":"无持续风向","pinyin":"beijing","citycode":"101010100","sunset":"19:35","weather":"多云","postCode":"100000","l_tmp":"23","time":"11:00","WS":"微风(<10m/h)","longitude":116.391}

@@ -13,8 +13,7 @@ import me.ddzq.android.easyweater.injector.PerActivity;
 @Module
 public class WeatherModule {
     
-    @Provides
-    @PerActivity
+    @Provides @PerActivity
     GetWeatherUsecase provideGetWeatherUsecase(Repository repository) {
         return new GetWeatherUsecase(repository);
     }

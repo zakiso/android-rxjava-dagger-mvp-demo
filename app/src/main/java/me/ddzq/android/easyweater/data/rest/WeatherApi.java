@@ -7,6 +7,8 @@ import retrofit.http.Query;
 import rx.Observable;
 
 /**
+ * WeatherApi接口
+ * 定义所有Weather相关的API的请求
  * Created by dzq on 15/7/25.
  */
 public interface WeatherApi {

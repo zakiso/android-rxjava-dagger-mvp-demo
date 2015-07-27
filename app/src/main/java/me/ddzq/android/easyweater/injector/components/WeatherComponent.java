@@ -7,7 +7,7 @@ import me.ddzq.android.easyweater.data.Repository;
 import me.ddzq.android.easyweater.injector.PerActivity;
 import me.ddzq.android.easyweater.injector.module.ActivityModule;
 import me.ddzq.android.easyweater.injector.module.WeatherModule;
-import me.ddzq.android.easyweater.presentation.ui.WeatherActivity;
+import me.ddzq.android.easyweater.ui.WeatherActivity;
 
 /**
  * Created by dzq on 15/7/26.

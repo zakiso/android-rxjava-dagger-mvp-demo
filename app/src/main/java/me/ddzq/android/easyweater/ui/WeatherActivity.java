@@ -1,4 +1,4 @@
-package me.ddzq.android.easyweater.presentation.ui;
+package me.ddzq.android.easyweater.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
